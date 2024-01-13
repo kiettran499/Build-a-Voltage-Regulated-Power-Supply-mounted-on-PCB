@@ -1,7 +1,7 @@
 # Build-a-Voltage-Regulated-Power-Supply-mounted-on-PCB
 
 <p align="center">
-  <img width="500" src="https://github.com/kiettran499/Redesigning-Motor-Gearbox-for-Automated-Assembly/blob/main/3D%20model%20of%20new%20Motor%20Gearbox.png">
+  <img width="500" src="https://github.com/kiettran499/Build-a-Voltage-Regulated-Power-Supply-mounted-on-PCB/blob/main/Full_circuit.png">
 
 ## Description
 
@@ -19,28 +19,28 @@
 
 - Block diagram of the whole circuit:
 <p align="center">
-  <img width="500" src="https://github.com/kiettran499/Wind-Turbine-Project-Mechanical_Design/blob/main/The%20final%20design%20with%20bedplate_2D%20drawning.png">
+  <img width="500" src="https://github.com/kiettran499/Build-a-Voltage-Regulated-Power-Supply-mounted-on-PCB/blob/main/Block%20diagram%20of%20the%20whole%20circuit.png">
 
 - Schematic of the circuit:
 <p align="center">
-  <img width="500" src="https://github.com/kiettran499/Wind-Turbine-Project-Mechanical_Design/blob/main/The%20final%20design%20with%20bedplate_2D%20drawning.png">
+  <img width="500" src="https://github.com/kiettran499/Build-a-Voltage-Regulated-Power-Supply-mounted-on-PCB/blob/main/Schematic.png">
   
 - The design of the PCB:
 <p align="center">
-  <img width="500" src="https://github.com/kiettran499/Wind-Turbine-Project-Mechanical_Design/blob/main/The%20final%20design%20with%20bedplate_2D%20drawning.png">
+  <img width="500" src="https://github.com/kiettran499/Build-a-Voltage-Regulated-Power-Supply-mounted-on-PCB/blob/main/PCB_design.png">
   
 - PCB circuit board with calculated components:
 <p align="center">
-  <img width="500" src="https://github.com/kiettran499/Wind-Turbine-Project-Mechanical_Design/blob/main/The%20final%20design%20with%20bedplate_2D%20drawning.png">
+  <img width="500" src="https://github.com/kiettran499/Build-a-Voltage-Regulated-Power-Supply-mounted-on-PCB/blob/main/PCB_board.png">
 
 - Full circuit (input, output and measurement):
 <p align="center">
-  <img width="500" src="https://github.com/kiettran499/Wind-Turbine-Project-Mechanical_Design/blob/main/The%20final%20design%20with%20bedplate_2D%20drawning.png">
+  <img width="500" src="https://github.com/kiettran499/Build-a-Voltage-Regulated-Power-Supply-mounted-on-PCB/blob/main/Full_circuit.png">
   
 ## Result & Conclusion
 
-Output Voltage is measured by Oscilloscope meter:
+- Output Voltage is measured by Oscilloscope meter:
 <p align="center">
-  <img width="500" src="https://github.com/kiettran499/Wind-Turbine-Project-Mechanical_Design/blob/main/The%20final%20design%20with%20bedplate_2D%20drawning.png">
+  <img width="500" src="https://github.com/kiettran499/Build-a-Voltage-Regulated-Power-Supply-mounted-on-PCB/blob/main/Output_Voltage_by_Oscilloscope_meter.png">
 
 - We can state that our Pulse Width Modulated Switching Voltage Regulator circuit worked as expected. It produces 3.3VDC output at the maximum load 1A. The circuit produce a very small ripple voltage (all load below 150mA). The snubber circuit has eliminated the spike in the waveform. 
